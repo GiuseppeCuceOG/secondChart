@@ -1,0 +1,31 @@
+html {
+	background-color: #080808;
+}
+
+.chart rect {
+  fill: #17E0E2;
+}
+
+.chart text {
+  fill: #EEE;
+  font-size: 5px sans-serif;
+  text-anchor: end;
+}
+
+.chart {
+	background-color: #222;
+}
+
+.bar {
+	fill: steelblue;
+}
+
+.axis text {
+	font: 10px sans-serif;
+}
+
+.axis path, .axis line {
+	fill: none;
+	stroke: #EEE;
+	shape-rendering: crispEdges;
+}
